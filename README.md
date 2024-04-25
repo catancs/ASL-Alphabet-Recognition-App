@@ -45,6 +45,10 @@ streamlit run asl_app.py
 ```bash
 pip install -r requirements.txt
 ```
+
+## Dataset
+- The model was trained and tested on data from `https://www.kaggle.com/datasets/grassknoted/asl-alphabet`
+
 ## Contributions
 Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
