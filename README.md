@@ -1,4 +1,4 @@
-## Streamlit ASL Alphabet Recognition App
+## Streamlit ASL Alphabet Recognition Web App
 
 This project includes a Streamlit web application for real-time American Sign Language (ASL) alphabet recognition. The app allows users to upload an image of an ASL alphabet sign, and it will classify the sign and display the predicted label. It utilizes TensorFlow and Keras for building and training the model, demonstrating an end-to-end machine learning pipeline from data preprocessing to model evaluation.
 
@@ -25,11 +25,11 @@ The model consists of several convolutional layers, max pooling, and dropout lay
 - Dropout (0.5)
 - Dense output layer with softmax activation
 
-## How to Run
+## How to Run the Web App
 1. Clone this repository.
 2. Ensure you have installed requirements listed below.
 3. Place your dataset in the `asl_alphabet_train` and `asl_alphabet_test` directories accordingly.
-4. Run the streamlit app using the following command:
+4. Run the streamlit web app using the following command:
 ```
 streamlit run asl_app.py
 ```
