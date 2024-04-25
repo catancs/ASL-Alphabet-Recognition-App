@@ -43,7 +43,7 @@ streamlit run asl_app.py
 
 ### Install Requirements
 ```bash
-pip install -r requirements.txt
+pip install -r dependencies.txt
 ```
 
 ## Dataset
@@ -52,4 +52,8 @@ pip install -r requirements.txt
 ## Contributions
 Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
-🚀 Explore the app here and start recognizing ASL alphabet signs with ease!
+## License
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+
+## 🚀 Explore the app here and start recognizing ASL alphabet signs with ease!
