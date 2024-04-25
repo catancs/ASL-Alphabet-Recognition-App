@@ -48,4 +48,8 @@ pip install -r dependencies.txt
 ## Contributions
 Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
-🚀 Explore the app here and start recognizing ASL alphabet signs with ease!
+## License
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+
+## 🚀 Explore the app here and start recognizing ASL alphabet signs with ease!
