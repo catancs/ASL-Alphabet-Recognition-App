@@ -39,7 +39,7 @@ The model consists of several convolutional layers, max pooling, and dropout lay
 ```
 streamlit run asl_app.py
 ```
-5. Uploand an image with a ASL symbol and see the results.
+5. Upload an image with a ASL symbol and see the results.
 
 ### Install Requirements
 ```bash
